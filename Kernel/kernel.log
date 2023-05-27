@@ -1,0 +1,87 @@
+[INFO] 21:26:06:855 Kernel/(21400:21400): Servidor listo para recibir al cliente
+[INFO] 21:26:46:880 Kernel/(21442:21442): Servidor listo para recibir al cliente
+[INFO] 21:51:50:526 Kernel/(21779:21779): Servidor listo para recibir al cliente
+[INFO] 22:21:26:264 Kernel/(22093:22093): Servidor listo para recibir al cliente
+[INFO] 22:25:37:860 Kernel/(22181:22181): Servidor listo para recibir al cliente
+[INFO] 22:25:51:046 Kernel/(22213:22213): Servidor listo para recibir al cliente
+[INFO] 22:26:12:971 Kernel/(22213:22213): Se conecto un cliente!
+[INFO] 22:26:12:978 Kernel/(22213:22213): Me llegaron los siguientes valores:
+
+[INFO] 22:26:12:978 Kernel/(22213:22213): 0½Â^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): p¾Â^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213):  ¿Â^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): ðÀÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): PÂÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): ÀÃÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): `ÅÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): 
+[INFO] 22:26:12:978 Kernel/(22213:22213): pÈÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): PÊÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): @ÌÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): ðßÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): @âÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213):  äÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): ÀæÂ^ßU
+[INFO] 22:26:12:978 Kernel/(22213:22213): 
+[ERROR] 22:26:12:979 Kernel/(22213:22213): el cliente se desconecto. Terminando servidor
+[INFO] 22:34:33:876 Kernel/(22409:22409): Servidor listo para recibir al cliente
+[INFO] 22:34:44:656 Kernel/(22409:22409): Se conecto un cliente!
+[INFO] 22:34:44:658 Kernel/(22409:22409): Me llegaron los siguientes valores:
+
+[ERROR] 22:34:44:661 Kernel/(22409:22409): el cliente se desconecto. Terminando servidor
+[INFO] 22:44:21:921 Kernel/(22652:22652): Servidor listo para recibir al cliente
+[INFO] 22:45:31:347 Kernel/(22652:22652): Se conecto un cliente!
+[INFO] 22:45:31:349 Kernel/(22652:22652): Me llegaron los siguientes valores:
+
+[ERROR] 22:45:31:350 Kernel/(22652:22652): el cliente se desconecto. Terminando servidor
+[INFO] 22:48:49:730 Kernel/(22901:22901): Servidor listo para recibir al cliente
+[INFO] 22:48:59:411 Kernel/(22901:22901): Se conecto un cliente!
+[INFO] 22:48:59:413 Kernel/(22901:22901): Me llegaron los siguientes valores:
+
+[ERROR] 22:48:59:415 Kernel/(22901:22901): el cliente se desconecto. Terminando servidor
+[INFO] 22:49:42:778 Kernel/(22945:22945): Servidor listo para recibir al cliente
+[INFO] 22:49:48:299 Kernel/(22945:22945): Se conecto un cliente!
+[INFO] 22:49:48:307 Kernel/(22945:22945): Me llegaron los siguientes valores:
+
+[ERROR] 22:49:48:308 Kernel/(22945:22945): el cliente se desconecto. Terminando servidor
+[INFO] 22:53:23:243 Kernel/(23133:23133): Servidor listo para recibir al cliente
+[INFO] 22:53:30:795 Kernel/(23133:23133): Se conecto un cliente!
+[INFO] 22:53:30:797 Kernel/(23133:23133): Me llegaron los siguientes valores:
+
+[INFO] 22:54:11:900 Kernel/(23189:23189): Servidor listo para recibir al cliente
+[INFO] 22:54:20:164 Kernel/(23189:23189): Se conecto un cliente!
+[INFO] 22:54:20:166 Kernel/(23189:23189): Me llegaron los siguientes valores:
+
+[INFO] 22:54:53:814 Kernel/(23249:23249): Servidor listo para recibir al cliente
+[INFO] 22:55:01:367 Kernel/(23249:23249): Se conecto un cliente!
+[INFO] 22:55:01:369 Kernel/(23249:23249): Me llegaron los siguientes valores:
+
+[INFO] 22:58:55:612 Kernel/(23345:23345): Servidor listo para recibir al cliente
+[INFO] 22:59:02:376 Kernel/(23345:23345): Se conecto un cliente!
+[INFO] 22:59:02:383 Kernel/(23345:23345): Me llegaron los siguientes valores:
+
+[ERROR] 22:59:02:384 Kernel/(23345:23345): el cliente se desconecto. Terminando servidor
+[INFO] 23:00:23:991 Kernel/(23405:23405): Servidor listo para recibir al cliente
+[INFO] 23:00:31:261 Kernel/(23405:23405): Se conecto un cliente!
+[INFO] 23:00:31:263 Kernel/(23405:23405): Me llegaron los siguientes valores:
+
+[ERROR] 23:00:31:265 Kernel/(23405:23405): el cliente se desconecto. Terminando servidor
+[INFO] 23:01:57:020 Kernel/(23512:23512): Servidor listo para recibir al cliente
+[INFO] 23:02:03:391 Kernel/(23512:23512): Se conecto un cliente!
+[INFO] 23:02:03:393 Kernel/(23512:23512): Me llegaron los siguientes valores:
+
+[INFO] 23:03:04:846 Kernel/(23578:23578): Servidor listo para recibir al cliente
+[INFO] 23:03:10:867 Kernel/(23578:23578): Se conecto un cliente!
+[INFO] 23:03:10:871 Kernel/(23578:23578): Me llegaron los siguientes valores:
+
+[INFO] 23:03:54:445 Kernel/(23626:23626): Servidor listo para recibir al cliente
+[INFO] 23:03:59:460 Kernel/(23626:23626): Se conecto un cliente!
+[INFO] 23:03:59:462 Kernel/(23626:23626): Me llegaron los siguientes valores:
+
+[ERROR] 23:03:59:464 Kernel/(23626:23626): el cliente se desconecto. Terminando servidor
+[INFO] 23:05:03:250 Kernel/(23703:23703): Servidor listo para recibir al cliente
+[INFO] 23:05:11:749 Kernel/(23703:23703): Se conecto un cliente!
+[INFO] 23:05:11:751 Kernel/(23703:23703): Me llegaron los siguientes valores:
+
+[ERROR] 23:05:11:754 Kernel/(23703:23703): el cliente se desconecto. Terminando servidor
+[INFO] 23:27:02:653 Kernel/(2597:2597): Servidor listo para recibir al cliente
